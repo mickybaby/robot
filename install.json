@@ -1,0 +1,35 @@
+{
+  "version": "v1.8.0",
+  "notes": "Note: 功能添加！\n\nFeat:\n\n- 新增了多款AI助手工具",
+  "pub_date": "2023-09-27T07:21:05.987Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHQ1bnpPWHlSM3pXMVhMV2lqL014dEE3bnZuWXMxZ3pST0REZW1TWlRBVzZwVm1YdmFPYyt4cUJXQjE5RnJNMmpVTGV5dUw4UXkwU2dGbUdaenBpOEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk5MTczCWZpbGU6cm9ib3RfMS44LjBfeDY0X2VuLVVTLm1zaS56aXAKVUh4NFdyK0pZa04xTFdtaUp6YVQ3eG1EaEFjSy9pVUVJY2Faek9YUGtOc283c0lReWJRaVhSejN5dHRhVVc4V093blpvMmd0QlFjMUgzc1diNFlIQVE9PQo=",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGxicTY3UHVwYVg5VEZSZFE1L2lsWjBQUmlwWDQ2R1cwWGh2Vld5ajUvUkUvb3poRkR5YmJCWVkyTHBjRFh5dExyV3hHaEV1OW1MVk5kODFGWkt1VWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk4OTMwCWZpbGU6cm9ib3RfMS44LjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmdxZm81UkU5OG0yZEU2R3FHRjg5WkZGa2JqY2xzREhXVXRpeEpENjJFNFZySVpUbSt3TUhxajYwZ0l5bFJLMmhOZnNMekYreklzZTRtQlA5MjhPZ0NBPT0K",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHRoVVk5TktjRHNaTU95NHNXNEZWb3pXdms4NEFDejVFSE50NmNFVUcxU01lSWpPUUlraklNbzhvVHJZUjZyQ29JN0xCcUpjelNnaWQzSXhLT290NXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk4ODExCWZpbGU6cm9ib3QuYXBwLnRhci5negpEK2hrMjdxUHNCVmd4T0x0dGIya1RJRnRGS2FwWjQ5R0Vod2swajNyck51YkRZMkhmREFHcUdRSW1NaWRPaXBxNXhGU0hUajFXdEFpR0tOcE16QUdCQT09Cg==",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHBMVzhpYkZMVGR3TW1TN0doN05waGtPWmgxSEZrZkNnTUtMNm5NYjZLVyt3ZXdzMTQvdkRXUVBjZVpXaG15TU9zNTdwQzhMNm9OaVpPYXFLM2JKOVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk4ODIyCWZpbGU6cm9ib3QuYXBwLnRhci5negp3RnZGNVFvcFhpL21RVFVzNjNlbmoxSEQwaWVhdk9LekU2d2VwRE1ncjRiamp0dG1qbkt4aytyNDl5cFFEZE5SdnFESTZFa2tuL0d1RCt6VW85OW9BQT09Cg==",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_macos_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHRoVVk5TktjRHNaTU95NHNXNEZWb3pXdms4NEFDejVFSE50NmNFVUcxU01lSWpPUUlraklNbzhvVHJZUjZyQ29JN0xCcUpjelNnaWQzSXhLT290NXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk4ODExCWZpbGU6cm9ib3QuYXBwLnRhci5negpEK2hrMjdxUHNCVmd4T0x0dGIya1RJRnRGS2FwWjQ5R0Vod2swajNyck51YkRZMkhmREFHcUdRSW1NaWRPaXBxNXhGU0hUajFXdEFpR0tOcE16QUdCQT09Cg==",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNGxicTY3UHVwYVg5VEZSZFE1L2lsWjBQUmlwWDQ2R1cwWGh2Vld5ajUvUkUvb3poRkR5YmJCWVkyTHBjRFh5dExyV3hHaEV1OW1MVk5kODFGWkt1VWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk4OTMwCWZpbGU6cm9ib3RfMS44LjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CmdxZm81UkU5OG0yZEU2R3FHRjg5WkZGa2JqY2xzREhXVXRpeEpENjJFNFZySVpUbSt3TUhxajYwZ0l5bFJLMmhOZnNMekYreklzZTRtQlA5MjhPZ0NBPT0K",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajQrVGVtSWpGNHQ1bnpPWHlSM3pXMVhMV2lqL014dEE3bnZuWXMxZ3pST0REZW1TWlRBVzZwVm1YdmFPYyt4cUJXQjE5RnJNMmpVTGV5dUw4UXkwU2dGbUdaenBpOEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Nzk5MTczCWZpbGU6cm9ib3RfMS44LjBfeDY0X2VuLVVTLm1zaS56aXAKVUh4NFdyK0pZa04xTFdtaUp6YVQ3eG1EaEFjSy9pVUVJY2Faek9YUGtOc283c0lReWJRaVhSejN5dHRhVVc4V093blpvMmd0QlFjMUgzc1diNFlIQVE9PQo=",
+      "url": "https://github.com/mickybaby/robot/releases/download/v1.8.0/robot_1.8.0_windows_x86_64.msi.zip"
+    }
+  }
+}
